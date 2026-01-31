@@ -63,11 +63,9 @@ Data         →  MongoDB, PostgreSQL, SQLite, Redis
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![Chintan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChintanDiwakar&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChintanDiwakar&layout=compact&theme=dark&hide_border=true)
+![GitHub Contribution Graph](https://ghchart.rshah.org/ChintanDiwakar)
 
 ---
 
