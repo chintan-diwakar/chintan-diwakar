@@ -11,6 +11,8 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 
 > Building AI-powered tools that developers actually want to use. Full-stack by trade, AI tinkerer by obsession.
@@ -40,8 +42,8 @@
 Frontend     →  React, Next.js, TypeScript, TailwindCSS
 Backend      →  Python, Node.js, FastAPI, Express
 AI/ML        →  OpenAI, Claude, LangChain, LangGraph
-Cloud        →  AWS, Vercel, Railway, Docker
-Data         →  PostgreSQL, SQLite, Redis
+Cloud        →  AWS (Lambda, SES, S3, EC2), Vercel, Railway, Docker
+Data         →  MongoDB, PostgreSQL, SQLite, Redis
 ```
 
 ---
@@ -63,9 +65,9 @@ Data         →  PostgreSQL, SQLite, Redis
 
 ## GitHub Stats
 
-![Chintan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chintan-diwakar&show_icons=true&theme=dark&hide_border=true)
+![Chintan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChintanDiwakar&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chintan-diwakar&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChintanDiwakar&layout=compact&theme=dark&hide_border=true)
 
 ---
 
