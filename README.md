@@ -19,17 +19,10 @@
 
 ## Current Projects
 
-### 🤖 AI & Developer Tools
-
-- 🧪 **[CopyBrewery](https://github.com/ChintanDiwakar/copybrewery)** - Brew fresh marketing copy from the web. LangGraph-powered crawler that extracts marketing patterns and generates new content with GPT-4.
-
-- 💬 **[AskMyCode.xyz](https://askmycode.xyz)** - Chat with your codebase. Upload your project, select context, and let AI help you understand, analyze, and improve your code. Privacy-first: everything runs in your browser.
-
-- 📈 **[Zentickr Yahoo Query MCP](https://github.com/chintan-diwakar/zentickr-yahoo-query-mcp)** - MCP server for financial data via Yahoo Finance. Stock insights, historical prices, earnings, recommendations, and ownership info. Built for AI research agents and financial copilots.
-
-### ☁️ Cloud & Utilities
-
-- 🪣 **[AWS Utility](https://aws-utility.vercel.app)** - Secure, production-ready AWS credential management and S3 browser. Built with Next.js 14+.
+- 🧪 **[CopyBrewery](https://github.com/ChintanDiwakar/copybrewery)** - Brew fresh marketing copy from the web
+- 💬 **[AskMyCode.xyz](https://askmycode.xyz)** - Chat with your codebase, privacy-first
+- 📈 **[Zentickr Yahoo Query MCP](https://github.com/chintan-diwakar/zentickr-yahoo-query-mcp)** - Financial data MCP server via Yahoo Finance
+- 🪣 **[AWS Utility](https://aws-utility.vercel.app)** - AWS credential manager & S3 browser
 
 ---
 
