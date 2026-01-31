@@ -63,12 +63,6 @@ Data         →  MongoDB, PostgreSQL, SQLite, Redis
 
 ---
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/ChintanDiwakar)
-
----
-
 ### Philosophy
 
 > "Ship it, learn from it, improve it." — I build tools to solve my own problems first, then share them with the world.
