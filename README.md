@@ -21,6 +21,7 @@
 
 ## Current Projects
 
+- 🦸 **[Super Agent](https://github.com/chintan-diwakar/super-agent)** - Multi-Agent Slack Bot powered by LangGraph with AI superhero agents
 - 🧪 **[CopyBrewery](https://github.com/ChintanDiwakar/copybrewery)** - Brew fresh marketing copy from the web
 - 💬 **[AskMyCode.xyz](https://askmycode.xyz)** - Chat with your codebase, privacy-first
 - 📈 **[Zentickr Yahoo Query MCP](https://github.com/chintan-diwakar/zentickr-yahoo-query-mcp)** - Financial data MCP server via Yahoo Finance
