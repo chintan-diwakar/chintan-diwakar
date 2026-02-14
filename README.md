@@ -20,7 +20,7 @@
 ---
 
 ## Current Projects
-
+- 🖥️ **[remote-terminal](https://github.com/chintan-diwakar/remote-terminal)** - Your terminal, anywhere. Access your dev workspace via browser, Telegram, or AI — secured with Tailscale.
 - 🦸 **[Super Agent](https://github.com/chintan-diwakar/super-agent)** - Multi-Agent Slack Bot powered by LangGraph with AI superhero agents
 - 🧪 **[CopyBrewery](https://github.com/ChintanDiwakar/copybrewery)** - Brew fresh marketing copy from the web
 - 💬 **[AskMyCode.xyz](https://askmycode.xyz)** - Chat with your codebase, privacy-first
