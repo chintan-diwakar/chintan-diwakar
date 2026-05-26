@@ -20,6 +20,7 @@
 ---
 
 ## Current Projects
+- 🩻 **[react-xray](https://github.com/chintan-diwakar/react-xray)** - Per-page component reachability for React apps. Finds which pages render which components and which ones no page reaches. Published on npm as `@chintandiwakar1/react-xray`.
 - 🖥️ **[remote-terminal](https://github.com/chintan-diwakar/remote-terminal)** - Your terminal, anywhere. Access your dev workspace via browser, Telegram, or AI — secured with Tailscale.
 - 🦸 **[Super Agent](https://github.com/chintan-diwakar/super-agent)** - Multi-Agent Slack Bot powered by LangGraph with AI superhero agents
 - 🧪 **[CopyBrewery](https://github.com/ChintanDiwakar/copybrewery)** - Brew fresh marketing copy from the web
